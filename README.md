@@ -17,3 +17,4 @@ Scroll to bottom of your uploaded files and click the 'more results' a few times
 
 The script will continue to download and close when finished.
 
+* Only tested on Windoze

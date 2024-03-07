@@ -18,3 +18,13 @@ Scroll to bottom of your uploaded files and click the 'more results' a few times
 The script will continue to download and close when finished.
 
 * Only tested on Windoze
+
+
+Here's Wigle's https://wigle.net/jigle/kml_filter.py which may be of use.
+Combines one or more KML files exported from your WiGLE.net uploads page
+into a single, bucketed output KML file. Relies upon WiGLE description
+strings for categorization (likely won't work with other KML export tools)
+To install, you'll need fastkml and combined requirements - see:
+   https://github.com/cleder/fastkml
+Copyright (c) 2010-2021, Andrew Carra, Robert Hagemann, Hugh Kennedy
+All rights reserved.

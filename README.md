@@ -18,6 +18,7 @@ Scroll to bottom of your uploaded files and click the 'more results' a few times
 The script will continue to download and close when finished.
 
 Added Search_KML's.py
+
 Drop in folder containing your KML's. Run it to search all of your files for a keyword. It will display all files and their
 respective line numbers of your search term.
 
